@@ -1,0 +1,6 @@
+paypal
+venmo
+chase
+wellsfargo
+facebook
+myspace
